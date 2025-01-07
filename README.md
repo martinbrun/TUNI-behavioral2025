@@ -19,7 +19,9 @@ Wednesday classes are held in Lecture Room C8.
 
 ### Grading
 The evaluation of learning will be conducted through one final exam.
-The final exam will be on XXX.
+The final exam will be on 12 Mar 2025 at 17:00. 
+The first retake exam will be on 23 Apr 2025 at 17:00.
+The second retake exam will be on 11 Jun 2025 at 17:00.
 
 ## Class progress [materials in the links]
 
