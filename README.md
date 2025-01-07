@@ -26,9 +26,12 @@ The final exam will be on XXX.
 **Wednesday 7 Jan 2025: Lecture Room C8**
 
 - General introduction to the course 
-- Standard Behavior Model [[01_intro](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/01-intro.pdf)]
+- Standard Behavior Model [[01-intro](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/01-intro.pdf)]
 
 **Monday 13 Jan 2025: Lecture Room C6**
+
+- Standard Behavior Model [[01-intro](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/01-intro.pdf)]
+- Time Preferences [[02-time](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/02-time.pdf)]
 
 **Wednesday 15 Jan 2025: Lecture Room C8**
 
