@@ -1,6 +1,6 @@
 # Behavioural and Psychological Economics (KAT.TAL.324)
 ### Tampere University
-### Winter 2025
+### Spring 2025
 
 **EN:** This repository contains all course material for classes of the Advanced course of Behavioural and Psychological Economics in Tampere University. Repository will be updated as we go a along. 
 
