@@ -37,6 +37,8 @@ The second retake exam will be on 11 Jun 2025 at 17:00.
 
 **Wednesday 15 Jan 2025: Lecture Room C8**
 
+- Risk Preferences [[03-risk](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/03-risk.pdf)]
+
 **Monday 20 Jan 2025: Lecture Room C6**
 
 **Wednesday 22 Jan 2025: Lecture Room C8**
