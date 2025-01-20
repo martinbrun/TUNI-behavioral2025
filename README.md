@@ -41,11 +41,11 @@ The second retake exam will be on 11 Jun 2025 at 17:00.
 **Monday 20 Jan 2025: Lecture Room C6**
 
 - Risk Preferences: Labor [[03-risk](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/03-risk.pdf)]
-- Social Preferences [[04-social](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/04-social.pdf)]
+- Social Preferences: Introduction [[04-social](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/04-social.pdf)]
 
 **Wednesday 22 Jan 2025: Lecture Room C8**
 
-- Social Preferences: Fairness [[04-social](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/04-social.pdf)]
+- Social Preferences [[04-social](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/04-social.pdf)]
 
 **Monday 27 Jan 2025: Lecture Room C6**
 
