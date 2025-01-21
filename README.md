@@ -49,12 +49,20 @@ The second retake exam will be on 11 Jun 2025 at 17:00.
 
 **Monday 27 Jan 2025: Lecture Room C6**
 
+- Social Preferences: Fairness [[04-social](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/04-social.pdf)]
+
 **Wednesday 29 Jan 2025: Lecture Room C8**
+
+- CANCELLED
 
 **Monday 3 Feb 2025: Lecture Room C6**
 
+- CANCELLED
+
 **Wednesday 5 Feb 2025: Lecture Room C8**
 
+- CANCELLED
+  
 **Monday 10 Feb 2025: Lecture Room C6**
 
 **Wednesday 12 Feb 2025: Lecture Room C8**
