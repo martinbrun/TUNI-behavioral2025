@@ -71,10 +71,11 @@ The second retake exam will be on 11 Jun 2025 at 17:00.
 
 - Beliefs: Motivated Beliefs [[05-beliefs](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/05-beliefs.pdf)]
 
-**Monday 17 Feb 2025: Lecture Room C6**
+**Monday 17 Feb 2025 (DOUBLE LECTURE): Lecture Room C6**
 
 - Decision-making [[06-decision](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/06-decision.pdf)]
+- Cognitive Foundations [[07-cognitive](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/07-cognitive.pdf)]
 
 **Wednesday 19 Feb 2025: Lecture Room C8**
 
-- Cognitive Foundations [[07-cognitive](https://github.com/martinbrun/TUNI-behavioral2025/raw/master/07-cognitive.pdf)]
+- Course closure
